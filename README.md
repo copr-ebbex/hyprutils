@@ -1,0 +1,3 @@
+# hyprutils
+
+The hyprutils package
